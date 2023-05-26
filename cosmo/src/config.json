@@ -1,0 +1,29 @@
+{
+    "PROJECT_NAME": "Cosmo",
+    "PERMISSION_FLAGS": [
+        {
+            "index": "FLAG_USER",
+            "name": "User"
+        },
+        {
+            "index": "FLAG_ADMIN",
+            "name": "Admin"
+        },
+        {
+            "index": "FLAG_VIEW",
+            "name": "View"
+        },
+        {
+            "index": "FLAG_EDIT",
+            "name": "Edit"
+        },
+        {
+            "index": "FLAG_DELETE",
+            "name": "Delete"
+        },
+        {
+            "index": "FLAG_CREATE",
+            "name": "Create"
+        }
+    ]
+}

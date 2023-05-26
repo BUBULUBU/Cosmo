@@ -1,0 +1,31 @@
+# Logs
+logs/
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directories
+node_modules/
+/.pnp
+.pnp.js
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# JetBrains Tools
+.idea/
+
+# Testing
+/coverage
+
+## Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
